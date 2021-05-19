@@ -10,7 +10,7 @@ npm install -g json-server
 2. Jalankan JSON Server
 
 ```bash
-json-server --watch db.json
+json-server --watch db.json --port 1234
 ```
 Aplikasi akan bejalan pada port 3000 [http://localhost:3000]
 
