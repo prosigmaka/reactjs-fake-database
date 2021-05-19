@@ -7,8 +7,6 @@
 npm install -g json-server
 ```
 
-Buat file `db.json` 
-
 2. Jalankan JSON Server
 
 ```bash
